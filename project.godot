@@ -21,6 +21,7 @@ _global_script_class_icons={
 [application]
 
 config/name="kproject"
+run/main_scene="res://firstscene.tscn"
 config/icon="res://icon.png"
 
 [gdnative]
